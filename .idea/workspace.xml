@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9ab7fb4-bce0-4c93-b464-ec43906787ab" name="Changes" comment="init" />
+    <list default="true" id="c9ab7fb4-bce0-4c93-b464-ec43906787ab" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lzc/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lzc/HelloWorld.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +44,7 @@
       <recent name="lzc" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld (1)">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="HelloWorld (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lzc.HelloWorld" />
       <module name="Demo" />
@@ -109,10 +112,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.HelloWorld (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.HelloWorld (4)" />
-        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.HelloWorld (3)" />
       </list>
     </recent_temporary>
@@ -125,7 +128,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630416987015</updated>
-      <workItem from="1630416988135" duration="7221000" />
+      <workItem from="1630416988135" duration="7288000" />
+      <workItem from="1630502676049" duration="5184000" />
+      <workItem from="1630539373993" duration="2388000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1630425733760</created>
@@ -148,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630426225513</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1630426569590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630426569590</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +176,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
