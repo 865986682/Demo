@@ -1,0 +1,39 @@
+.
+├── bin     存放构建产物
+├── CHANGELOG-DCA.rst 
+├── CHANGELOG-INSTALLSCRIPT.rst
+├── CHANGELOG.rst
+├── chocolatey
+├── cmd     此目录包含各种agent启动入口(host agent启动入口就在cmd/agent/main.go)
+├── CONTRIBUTING.md
+├── dev     开发者可以将自定义的配置文件放在该目录下，并且会被包含在构建的产物中
+├── devenv     此目录包含一些脚本，可帮助您使用 Windows 开发环境进行设置
+├── Dockerfiles
+├── docs     此目录包含文档、指南和资源，以更好地使用此存储库
+├── generate_tools.go
+├── go.mod
+├── google-marketplace
+├── go.sum
+├── internal
+├── LICENSE
+├── LICENSE-3rdparty.csv
+├── Makefile.trace
+├── NOTICE
+├── omnibus
+├── pkg     核心包之一
+├── pkg-config
+├── pyproject.toml
+├── README.md
+├── release.json
+├── releasenotes
+├── releasenotes-dca
+├── releasenotes-installscript
+├── requirements.txt
+├── rtloader
+├── setup.cfg
+├── SUPPORT.md
+├── tasks
+├── test
+└── tools
+
+19 directories, 17 files

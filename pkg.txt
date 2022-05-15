@@ -1,0 +1,47 @@
+.
+├── aggregator     聚合器相关，负责将指标聚合，计算直方图等，然后送给转发器
+├── api
+├── autodiscovery     该包管理动态实体（如 pod 和容器）的配置,自动发现相关
+├── clusteragent     集群agent相关逻辑，包括集群自定义指标等
+├── collector     此包负责提供check过程中所需的任何资源和功能（创建check实例、调度check等)
+├── compliance
+├── config
+├── containerlifecycle
+├── diagnose
+├── dogstatsd     该包负责通过 UDP 或 UDS 接收指标。每个包都必须遵循 Dogstatsd
+├── ebpf
+├── epforwarder
+├── errors
+├── flare
+├── forwarder     将指标等数据发往后台的相关逻辑
+├── jmxfetch
+├── kubestatemetrics
+├── logs
+├── metadata     元数据发送到后台的相关路逻辑
+├── metrics      定义指标类型，以及指标数据处理逻辑
+├── network
+├── obfuscate
+├── orchestrator
+├── otlp
+├── persistentcache
+├── pidfile
+├── process
+├── proto
+├── quantile
+├── remoteconfig
+├── runtime
+├── secrets
+├── security
+├── serializer
+├── serverless
+├── snmp
+├── status
+├── tagger
+├── tagset
+├── telemetry
+├── trace
+├── util
+├── version
+└── workloadmeta
+
+44 directories, 0 files
